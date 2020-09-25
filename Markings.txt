@@ -1,0 +1,40 @@
+
+Markings on chips with excessive sleep current:
+
+Atmel
+Mega328P
+U-TW
+35473D
+1936S2P
+
+
+Atmel
+Mega328P
+U-TW
+35473D
+1947X5N
+
+
+Atmel
+Mega328P
+U-KR
+354A3P
+1942T6A
+
+
+Markings on an earlier chip which sleeps normally:
+
+Atmel
+MEGA328P
+U-KR
+35473D
+1829R5G
+
+
+Markings on a new 328P purchased from Digikey, which sleeps normally:
+
+Atmel
+Mega328P
+U-TH
+35473D
+2002G1U
